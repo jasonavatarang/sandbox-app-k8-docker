@@ -33,9 +33,6 @@ This README will walk you through setting up a full-stack Java (Spring Boot) + R
 6. **Yarn (Optional)**
    - Install: `npm install --global yarn`
 
-7. **React App Generator**
-   - Use: `npx create-react-app myapp`
-
 ---
 
 ## Folder Structure
